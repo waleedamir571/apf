@@ -9,10 +9,10 @@
                 <div class="col-lg-8 offset-lg-2">
                     <h1> Gallery</h1>
                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
+                        <!-- <ol class="breadcrumb">
                             <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
                             <li class="active">Gallery</li>
-                        </ol>
+                        </ol> -->
                     </nav>
                 </div>
             </div>

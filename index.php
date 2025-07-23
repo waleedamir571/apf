@@ -22,8 +22,8 @@
 
                     </p>
                     <div class="button-double mt-30">
-                        <a class="btn btn-sm btn-gradient animation" href="about-us#">Shop Now</a>
-                        <a class="btn btn-sm btn-dark animation" href="contact-us#">Join the Community</a>
+                        <a class="btn btn-sm btn-gradient animation" href="shop.php">Shop Now</a>
+                        <a class="btn btn-sm btn-dark animation" href="contact-us.php">Join the Community</a>
                     </div>
                     <!-- <div class="wow fadeInUp" data-wow-delay="400ms">
                         <form class="search-style-two" action="#">
@@ -38,7 +38,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="thumb-style-one wow fadeInUp" data-wow-delay="400ms">
-                    <img src="assets/img/thumb/2.jpg" alt="Image Not Found">
+                    <img src="assets/img/about/3.jpg" alt="Image Not Found">
                     <img src="assets/img/shape/18.png" alt="Image Not Found">
                 </div>
             </div>
@@ -172,7 +172,7 @@
                                 <img src="assets/img/icon/29.png" alt="Image Not Fond"> <strong>Emergency Essentials</strong>
                             </button>
                         </li>
-                        <li class="nav-item" role="presentation">
+                        <!-- <li class="nav-item" role="presentation">
                             <button class="nav-link" id="tabs_2" data-bs-toggle="tab" data-bs-target="#tab_2"
                                 type="button" role="tab" aria-controls="tab_2" aria-selected="false">
                                 <img src="assets/img/icon/47.png" alt="Image Not Fond"> <strong>Business
@@ -197,7 +197,7 @@
                                 <img src="assets/img/icon/28.png" alt="Image Not Fond"> <strong>Language
                                     Learning</strong>
                             </button>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
                 <div class="col-xl-7 offset-xl-1 col-lg-7">
@@ -794,7 +794,7 @@
 
 <!-- Start Brand Area 
     ============================================= -->
-<div class="brand-style-two-area dark-optional text-light relative overflow-hidden">
+<!-- <div class="brand-style-two-area dark-optional text-light relative overflow-hidden">
     <div class="brand-style-two">
         <div class="container-fill">
             <div class="row">
@@ -829,7 +829,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Brand Area -->
 
 <!-- Start Join Us
@@ -1033,7 +1033,7 @@
                             Exclusive content, early access to guides, and direct support for our mission to help
                             families prepare.
 
-
+                             <br>
 
                             <br>
                             Exclusive preparedness guides, monthly live sessions, and patron-only community access.
@@ -1045,7 +1045,7 @@
 
                         </p>
                         <a class="btn btn-sm btn-theme circle animation"
-                            href="https://bsky.app/profile/allpreparedforfun.bsky.social">Follow</a>
+                            href="https://www.patreon.com/allpreparedforfun">Follow</a>
                     </div>
 
                 </div>

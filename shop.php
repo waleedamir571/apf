@@ -71,7 +71,7 @@
                                 <img src="assets/img/icon/29.png" alt="Image Not Fond"> <strong>Emergency Essentials</strong>
                             </button>
                         </li>
-                        <li class="nav-item" role="presentation">
+                        <!-- <li class="nav-item" role="presentation">
                             <button class="nav-link" id="tabs_2" data-bs-toggle="tab" data-bs-target="#tab_2"
                                 type="button" role="tab" aria-controls="tab_2" aria-selected="false">
                                 <img src="assets/img/icon/47.png" alt="Image Not Fond"> <strong>Business
@@ -96,7 +96,7 @@
                                 <img src="assets/img/icon/28.png" alt="Image Not Fond"> <strong>Language
                                     Learning</strong>
                             </button>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
                 <div class="col-xl-7 offset-xl-1 col-lg-7">
