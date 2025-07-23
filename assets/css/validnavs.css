@@ -254,7 +254,7 @@ Version: 1.0
 
 .navbar .attr-right .attr-nav li.button a {
 	padding: 12px 28px !important;
-	border-radius: 10px;
+	border-radius: 30px;
 	font-size: 14px;
 	position: relative;
 	z-index: 1;
@@ -278,7 +278,7 @@ Version: 1.0
 	content: "";
 	height: 100%;
 	width: 100%;
-	    background: #073069;
+	background: var(--bg-gradient);
 	z-index: -1;
 }
 
@@ -1315,7 +1315,7 @@ nav.navbar.validnavs.brand-center {
 	}
 
 	nav.navbar.validnavs.navbar-default.navbar-fixed.inc-topbar.no-background {
-		top: 0px;
+		top: 60px;
 	}
 
 	nav.navbar.validnavs.navbar-default.navbar-fixed.inc-topbar.no-background.sticked {
@@ -1615,7 +1615,7 @@ nav.navbar.validnavs.brand-center {
 
 	nav.navbar.validnavs.menu-center {
 		padding: 0;
-		background-color: #2B3CA9 !important;
+		background-color: #00194C !important;
 		/* color: white !important; */
 	}
 

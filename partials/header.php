@@ -85,7 +85,59 @@
 
    <!-- Start Header Top 
     ============================================= -->
-  
+    <div class="top-bar-area top-bar-style-one bg-theme text-light">
+        <div class="container">
+            <div class="row align-center">
+                <div class="col-lg-7">
+                    <ul class="item-flex">
+                        <li>
+                             <a href="tel:(555) 123-PREP"> 
+                                <img src="assets/img/icon/2.png" alt="Icon"> Phone: (555) 123-PREP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:name@email.com">
+                                <img src="assets/img/icon/3.png" alt="Icon"> Email: hello@allpreparedforfun.com
+
+
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-5 text-end">
+                    <div class="item-flex">
+                        <!-- <div>
+                            <a href="#"><img src="assets/img/icon/1.png" alt="Icon"> Admin</a>
+                        </div> -->
+                        <div class="social">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-youtube"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- End Header Top -->
 
     <!-- Header 
@@ -122,8 +174,9 @@
                       
                          <li><a href="index.php">Home</a></li>
                           <li><a href="about-us.php">About Us</a></li>
-                         <li><a href="shop.php">Shop</a></li>
-                           <li><a href="join-us.php">Join Us</a></li>
+                         <li><a href="join-us.php">Join Us</a></li>
+                          <li><a href="shop.php">Shop</a></li>
+                           <li><a href="gallery.php">Gallery</a></li>
                      
                      
                         <li><a href="contact-us.php">Contact Us</a></li>
@@ -143,9 +196,9 @@
                                     </div>
                                 </a>
                             </li> -->
-                            <li class="button">
-                                <a href="#">Get Started</a>
-                            </li>
+                            <!-- <li class="button">
+                                <a href="#">Enroll</a>
+                            </li> -->
                         </ul>
                         
                     </div>
